@@ -1,0 +1,72 @@
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\appsettings.json
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.exe
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.deps.json
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.runtimeconfig.json
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.pdb
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.csproj.AssemblyReference.cache
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.AssemblyInfoInputs.cache
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.AssemblyInfo.cs
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.csproj.CoreCompileInputs.cache
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\staticwebassets\msbuild.Xseed.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\staticwebassets\msbuild.build.Xseed.API.props
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Xseed.API.props
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Xseed.API.props
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\scopedcss\bundle\Xseed.API.styles.css
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.csproj.CopyComplete
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\refint\Xseed.API.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.pdb
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.genruntimeconfig.cache
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\obj\Debug\net8.0\ref\Xseed.API.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\XSeed.Bussiness.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\XSeed.Bussiness.pdb
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\XSeed.Data.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\Xseed\bin\Debug\net8.0\XSeed.Data.pdb
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\appsettings.json
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.exe
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.deps.json
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.runtimeconfig.json
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\Xseed.API.pdb
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\XSeed.Bussiness.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\XSeed.Data.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\XSeed.Bussiness.pdb
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\bin\Debug\net8.0\XSeed.Data.pdb
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.csproj.AssemblyReference.cache
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.AssemblyInfoInputs.cache
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.AssemblyInfo.cs
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.csproj.CoreCompileInputs.cache
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\staticwebassets\msbuild.Xseed.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\staticwebassets\msbuild.build.Xseed.API.props
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Xseed.API.props
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Xseed.API.props
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\scopedcss\bundle\Xseed.API.styles.css
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.csproj.CopyComplete
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\refint\Xseed.API.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.pdb
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\Xseed.API.genruntimeconfig.cache
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\Xseed\obj\Debug\net8.0\ref\Xseed.API.dll

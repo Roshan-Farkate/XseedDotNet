@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "keY6ohtpyFA1zr8fl1n0I/FbhVVpC+U5XwZc5ZvLvpb4Obz4pGhXpZzVN4jUfwsNtdPLcx9oDGrEQkPf+wKhCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\Xseed\\Xseed.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anchal Nagdev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Anchal Nagdev\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Anchal Nagdev\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Anchal Nagdev\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Anchal Nagdev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Anchal Nagdev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
