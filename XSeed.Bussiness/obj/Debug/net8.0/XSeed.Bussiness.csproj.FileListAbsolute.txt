@@ -1,0 +1,30 @@
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Bussiness.deps.json
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Bussiness.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Bussiness.pdb
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.AssemblyInfo.cs
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\refint\XSeed.Bussiness.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.pdb
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\ref\XSeed.Bussiness.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Data.dll
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Data.pdb
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.csproj.AssemblyReference.cache
+C:\Users\Sonal Chandgude\source\repos\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.csproj.CopyComplete
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Bussiness.deps.json
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Bussiness.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Bussiness.pdb
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Data.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\bin\Debug\net8.0\XSeed.Data.pdb
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.csproj.AssemblyReference.cache
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.AssemblyInfo.cs
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.csproj.CopyComplete
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\refint\XSeed.Bussiness.dll
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\XSeed.Bussiness.pdb
+C:\Users\Anchal Nagdev\Downloads\Xseed Test backup\Xseed\XSeed.Bussiness\obj\Debug\net8.0\ref\XSeed.Bussiness.dll
