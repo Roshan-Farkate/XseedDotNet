@@ -1,0 +1,15 @@
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\Xseed.API.exe
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\Xseed.API.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\Xseed.API.deps.json
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\Xseed.API.runtimeconfig.json
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\Xseed.API.pdb
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\XSeed.Bussiness.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\XSeed.Data.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\XSeed.Bussiness.pdb
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\Xseed\obj\Release\net8.0\PubTmp\Out\XSeed.Data.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "XSeed.Bussiness/1.0.0": {
+        "dependencies": {
+          "XSeed.Data": "1.0.0"
+        },
+        "runtime": {
+          "XSeed.Bussiness.dll": {}
+        }
+      },
+      "XSeed.Data/1.0.0": {
+        "runtime": {
+          "XSeed.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XSeed.Bussiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XSeed.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

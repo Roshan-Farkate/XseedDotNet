@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anchal Nagdev\\.nuget\\packages\\": {},
+    "C:\\Users\\Roshan Farkate\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Bussiness\\XSeed.Bussiness.csproj",
+      "projectUniqueName": "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Bussiness\\XSeed.Bussiness.csproj",
       "projectName": "XSeed.Bussiness",
-      "projectPath": "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Bussiness\\XSeed.Bussiness.csproj",
-      "packagesPath": "C:\\Users\\Anchal Nagdev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Bussiness\\obj\\",
+      "projectPath": "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Bussiness\\XSeed.Bussiness.csproj",
+      "packagesPath": "C:\\Users\\Roshan Farkate\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Bussiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Anchal Nagdev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roshan Farkate\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Data\\XSeed.Data.csproj": {
-              "projectPath": "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Data\\XSeed.Data.csproj"
+            "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Data\\XSeed.Data.csproj": {
+              "projectPath": "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Data\\XSeed.Data.csproj"
             }
           }
         }
