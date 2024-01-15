@@ -1,0 +1,5 @@
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\publish\XSeed.Bussiness.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\publish\XSeed.Bussiness.deps.json
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\publish\XSeed.Bussiness.pdb
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\publish\XSeed.Data.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\publish\XSeed.Data.pdb

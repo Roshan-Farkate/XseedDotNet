@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Data\\XSeed.Data.csproj": {}
+    "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Data\\XSeed.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Data\\XSeed.Data.csproj": {
+    "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Data\\XSeed.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Data\\XSeed.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Data\\XSeed.Data.csproj",
         "projectName": "XSeed.Data",
-        "projectPath": "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Data\\XSeed.Data.csproj",
-        "packagesPath": "C:\\Users\\Anchal Nagdev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anchal Nagdev\\Downloads\\Xseed Test backup\\Xseed\\XSeed.Data\\obj\\",
+        "projectPath": "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Data\\XSeed.Data.csproj",
+        "packagesPath": "C:\\Users\\Roshan Farkate\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roshan Farkate\\BitBucket\\XseedDotNet\\XSeed.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Anchal Nagdev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Roshan Farkate\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

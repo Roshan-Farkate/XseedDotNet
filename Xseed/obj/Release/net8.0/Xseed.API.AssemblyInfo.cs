@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Xseed.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc79400035a43f1ef33088fa9349a3f1732ebd25")]
 [assembly: System.Reflection.AssemblyProductAttribute("Xseed.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Xseed.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

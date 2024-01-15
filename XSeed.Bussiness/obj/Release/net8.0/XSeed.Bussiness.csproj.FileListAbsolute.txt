@@ -1,0 +1,16 @@
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\XSeed.Bussiness.deps.json
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\XSeed.Bussiness.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\XSeed.Bussiness.pdb
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\XSeed.Data.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\bin\Release\net8.0\XSeed.Data.pdb
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\XSeed.Bussiness.csproj.AssemblyReference.cache
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\XSeed.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\XSeed.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\XSeed.Bussiness.AssemblyInfo.cs
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\XSeed.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\XSeed.Bussiness.sourcelink.json
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\XSeed.Bussiness.csproj.CopyComplete
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\XSeed.Bussiness.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\refint\XSeed.Bussiness.dll
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\XSeed.Bussiness.pdb
+C:\Users\Roshan Farkate\BitBucket\XseedDotNet\XSeed.Bussiness\obj\Release\net8.0\ref\XSeed.Bussiness.dll
