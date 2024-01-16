@@ -26,8 +26,8 @@ namespace Xseed.API
                           .AllowAnyHeader());
     
             });
-
-          app.UseCors("AllowReactApp");
+          services.AddControllers();
+         
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,7 +55,7 @@ namespace Xseed.API
         );
 
             app.UseAuthorization();
-
+         app.UseCors("AllowReactApp");
            app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
