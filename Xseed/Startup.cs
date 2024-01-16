@@ -45,6 +45,7 @@ namespace Xseed.API
             }
 
             app.UseHttpsRedirection();
+            app.MapFallbackToFile("index.html");
             app.UseStaticFiles();
 
             app.UseRouting();
