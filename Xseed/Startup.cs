@@ -20,12 +20,20 @@ namespace Xseed.API
         {
             services.AddCors(options =>
             {
-                options.AddPolicy("AllowReactApp",
+options.AddDefaultPolicy(builder =>
+                {
+                    builder.WithOrigins("http://localhost:3000")
+                           .AllowAnyHeader()
+                           .AllowAnyMethod();
+                });
+                
+               /* options.AddPolicy("AllowReactApp",
         builder => builder.WithOrigins("http://localhost:3000") 
                           .AllowAnyMethod()
                           .AllowAnyHeader());
     
-            });
+            });*/
+                
           services.AddControllers();
          
         }
@@ -55,7 +63,7 @@ namespace Xseed.API
         );
 
             app.UseAuthorization();
-         app.UseCors("AllowReactApp");
+     app.UseCors();
            app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
