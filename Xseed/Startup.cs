@@ -49,16 +49,17 @@ namespace Xseed.API
 
             app.UseRouting();
 
-           app.UseCors("AllowAll");
+           app.UseCors(builder =>
+                builder.WithOrigins("http://localhost:3000")
+               .AllowAnyHeader()
+               .AllowAnyMethod()
+        );
 
             app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
+           app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=WeatherForecast}/{action=WeatherControllerMethod}"
-                );
+                endpoints.MapControllers();
             });
         }
     }
