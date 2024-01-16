@@ -49,7 +49,7 @@ namespace Xseed.API
 
             app.UseRouting();
 
-            app.UseCors();
+           app.UseCors("AllowAll");
 
             app.UseAuthorization();
 
