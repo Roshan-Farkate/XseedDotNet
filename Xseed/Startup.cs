@@ -20,12 +20,7 @@ namespace Xseed.API
         {
             services.AddCors(options =>
             {
-/*options.AddDefaultPolicy(builder =>
-                {
-                    builder.WithOrigins("http://localhost:3000")
-                           .AllowAnyHeader()
-                           .AllowAnyMethod();
-                });*/
+
                 
                 options.AddPolicy("AllowReactApp",
         builder => builder.WithOrigins("http://localhost:3000") 
