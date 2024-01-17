@@ -15,20 +15,22 @@ namespace Xseed.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
+        private int myVariable; // New variable without initializing
+
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
-           
         }
 
-      
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> WeatherControllerMethod()
         {
             WeatherInfo model = new WeatherInfo();
-           
-            return (IEnumerable<WeatherForecast>)model.WeatherInfoMethod();
 
+            // TODO: Add some meaningful comments explaining the purpose of the code below
+
+            // Get weather information using the WeatherInfoMethod from the WeatherInfo model
+            return (IEnumerable<WeatherForecast>)model.WeatherInfoMethod();
         }
     }
 }
