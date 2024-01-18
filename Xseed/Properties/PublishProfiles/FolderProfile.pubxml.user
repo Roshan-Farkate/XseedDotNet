@@ -8,4 +8,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <History>True|2024-01-15T00:04:56.1196790Z;</History>
     <LastFailureDetails />
   </PropertyGroup>
+<PropertyGroup>
+    <LangVersion>latest</LangVersion>
+</PropertyGroup>
+
 </Project>
