@@ -59,6 +59,7 @@ namespace Xseed.API
 
             app.UseAuthorization();
      app.UseCors("AllowReactApp");
+               //app.UseCors("AllowReactApp");
 
            app.UseEndpoints(endpoints =>
             {
